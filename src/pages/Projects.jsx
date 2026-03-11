@@ -13,7 +13,7 @@ title:"Developer Portfolio",
 description:"A full stack developer portfolio built with React, Tailwind and modern UI design.",
 image:"/Images/portfolio.png",
 github:"https://github.com/Ayodbuilder/portfolio",
-live:"https://portfolio.vercel.app"
+live:"https://portfolio-bits-nine.vercel.app/"
 },
 
 {
