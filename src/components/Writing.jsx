@@ -11,17 +11,17 @@ const Writing = () => {
     },
     {
       title: "Why Most Beginner Developers Feel Stupid (And It’s Not Their Fault)",
-      description: "A simple breakdown of REST architecture and endpoints.",
+      description: "Exploring the psychological aspects of learning to code.",
       link: "https://medium.com/@olayinkavictor68/why-most-beginner-developers-feel-stupid-and-its-not-their-fault-0759d2a8c3af"
     },
     {
       title: "Stop Watching React Tutorials. Build This Instead.",
-      description: "Core JavaScript concepts every developer should know.",
+      description: "A practical approach to learning React by building real projects.",
       link: "https://medium.com/@olayinkavictor68/stop-watching-react-tutorials-build-this-instead-7091bfaec18b"
     },
     {
       title: "How I Solved Some Problems I Faced When Building A Dummy Responsive E-Commerce Website.",
-      description: "Bugs I faced and fixed when building the dummy website.",
+      description: "Breaking down the challenges and solutions encountered.",
       link: "https://medium.com/@olayinkavictor68/how-i-built-a-responsive-e-commerce-website-with-html-css-and-javascript-04463f685259"
     },
     {
